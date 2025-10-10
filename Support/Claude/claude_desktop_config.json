@@ -1,0 +1,8 @@
+{
+	"mcpServers": {
+		"weather": {
+			"command": "/usr/local/bin/node",
+			"args": ["/Users/DAHCROWN/Downloads/10daysAi/weather/build/index.js"]
+		}
+	}
+}
